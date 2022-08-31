@@ -2,3 +2,5 @@ En curso
 
 Curso git
 1. Realizando pruebas y cambios
+
+Hoy estoy aprendiendo a hacer cambios en git 
