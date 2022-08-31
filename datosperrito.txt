@@ -2,3 +2,4 @@ Datos del perrito
 Nombre: ODIE
 Edad: 10 
 Color: grisesito
+Cualidad: hermoso
