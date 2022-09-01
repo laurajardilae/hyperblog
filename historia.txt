@@ -6,3 +6,5 @@ Curso git
 Hoy estoy aprendiendo a hacer cambios en git 
 
 Aprendiendo que no puedo hacer un commit vacio
+
+Haciendo cambios en el txt y html al tiempo
