@@ -3,3 +3,5 @@ Nombre: ODIE
 Edad: 10 
 Color: grisesito
 Cualidad: hermoso
+
+Debilidad actual: rascarse la herida
